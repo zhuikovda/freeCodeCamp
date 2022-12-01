@@ -1,8 +1,8 @@
 function nextInLine(arr, item) {
     // Only change code below this line
     arr.push(item);
-    arr.shift(); 
-    return item;
+    // arr.shift(); 
+    return arr.shift(item);
     // Only change code above this line
   }
   
