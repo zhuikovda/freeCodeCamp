@@ -1,4 +1,4 @@
-onst myStorage = {
+const myStorage = {
     "car": {
       "inside": {
         "glove box": "maps",
